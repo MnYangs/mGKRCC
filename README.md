@@ -5,5 +5,5 @@ We propose a multi-neighborhood Guided Kendall Rank Correlation Coefficient algo
 RFM-LC requires VLfeat. You can download it at: [https://www.vlfeat.org](https://www.vlfeat.org)
 ## Citation
 Please refer to our following papers for algorithm details:
-Jun Chen, Meng Yang, Wenping Gong, and Yang Yu, "Multi-neighborhood Guided Kendall Rank Correlation Coefficient for Feature Matching," in IEEE Transactions on Multimedia, doi: -.
+Jun Chen, Meng Yang, Wenping Gong, and Yang Yu, "Multi-neighborhood Guided Kendall Rank Correlation Coefficient for Feature Matching," in IEEE Transactions on Multimedia, 2022, doi: 10.1109/TMM.2022.3217410.
 
